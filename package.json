@@ -1,0 +1,25 @@
+{
+  "name": "@stapto/random-four-digit-pin",
+  "version": "1.0.0",
+  "description": "Generate random four digit pin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunnambissan/random-four-digit-pin.git"
+  },
+  "keywords": [
+    "javascript",
+    "random",
+    "pin",
+    "stapto"
+  ],
+  "author": "Arun D Nambissan <hello@arund.in> (https://arund.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunnambissan/random-four-digit-pin/issues"
+  },
+  "homepage": "https://github.com/arunnambissan/random-four-digit-pin#readme"
+}
