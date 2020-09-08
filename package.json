@@ -1,6 +1,6 @@
 {
-  "name": "@stapto/random-four-digit-pin",
-  "version": "1.0.0",
+  "name": "random-four-digit-pin",
+  "version": "1.1.0",
   "description": "Generate random four digit pin",
   "main": "index.js",
   "scripts": {
