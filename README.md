@@ -7,8 +7,7 @@ Install package using bellow command:
 
 You can import the package and use `generate` method:
 
-`
-import RandomPin from 'random-four-digit-pin';
 
-console.log(RandomPin.generate())
-`
+`import RandomPin from 'random-four-digit-pin';`
+
+`console.log(RandomPin.generate())`
